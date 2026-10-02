@@ -1472,6 +1472,7 @@
     "tourney4": "Tourney 8 Teams",
     "tradersdream": "Traders Dream",
     "twolakes": "Two Lakes",
+    "ukraine": "Ukraine",
     "unitedstates": "United States",
     "vancouverisland": "Vancouver Island",
     "venice": "Venice",
@@ -1513,6 +1514,7 @@
     "unfavorite": "Remove from favourites"
   },
   "map_layers": {
+    "borders": "borders",
     "label": "label"
   },
   "marketing_consent": {

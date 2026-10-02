@@ -4604,6 +4604,141 @@
     "name": "Ukraine"
   },
   {
+    "code": "UA-71",
+    "continent": "Europe",
+    "name": "Cherkasy Oblast"
+  },
+  {
+    "code": "UA-74",
+    "continent": "Europe",
+    "name": "Chernihiv Oblast"
+  },
+  {
+    "code": "UA-77",
+    "continent": "Europe",
+    "name": "Chernivtsi Oblast"
+  },
+  {
+    "code": "UA-12",
+    "continent": "Europe",
+    "name": "Dnipro Oblast"
+  },
+  {
+    "code": "UA-14",
+    "continent": "Europe",
+    "name": "Donetsk Oblast"
+  },
+  {
+    "code": "UA-26",
+    "continent": "Europe",
+    "name": "Ivano-Frankivsk Oblast"
+  },
+  {
+    "code": "UA-63",
+    "continent": "Europe",
+    "name": "Kharkiv Oblast"
+  },
+  {
+    "code": "UA-65",
+    "continent": "Europe",
+    "name": "Kherson Oblast"
+  },
+  {
+    "code": "UA-68",
+    "continent": "Europe",
+    "name": "Khmelnytskyi Oblast"
+  },
+  {
+    "code": "UA-35",
+    "continent": "Europe",
+    "name": "Kropyvnytskyi Oblast"
+  },
+  {
+    "code": "UA-43",
+    "continent": "Europe",
+    "name": "Autonomous Republic of Crimea"
+  },
+  {
+    "code": "UA-30",
+    "continent": "Europe",
+    "name": "Kyiv City"
+  },
+  {
+    "code": "UA-32",
+    "continent": "Europe",
+    "name": "Kyiv Oblast"
+  },
+  {
+    "code": "UA-09",
+    "continent": "Europe",
+    "name": "Luhansk Oblast"
+  },
+  {
+    "code": "UA-46",
+    "continent": "Europe",
+    "name": "Lviv Oblast"
+  },
+  {
+    "code": "UA-48",
+    "continent": "Europe",
+    "name": "Mykolaiv Oblast"
+  },
+  {
+    "code": "UA-51",
+    "continent": "Europe",
+    "name": "Odesa Oblast"
+  },
+  {
+    "code": "UA-53",
+    "continent": "Europe",
+    "name": "Poltava Oblast"
+  },
+  {
+    "code": "UA-56",
+    "continent": "Europe",
+    "name": "Rivne Oblast"
+  },
+  {
+    "code": "UA-40",
+    "continent": "Europe",
+    "name": "Sevastopol City"
+  },
+  {
+    "code": "UA-59",
+    "continent": "Europe",
+    "name": "Sumy Oblast"
+  },
+  {
+    "code": "UA-61",
+    "continent": "Europe",
+    "name": "Ternopil Oblast"
+  },
+  {
+    "code": "UA-05",
+    "continent": "Europe",
+    "name": "Vinnytsia Oblast"
+  },
+  {
+    "code": "UA-07",
+    "continent": "Europe",
+    "name": "Volyn Oblast"
+  },
+  {
+    "code": "UA-21",
+    "continent": "Europe",
+    "name": "Zakarpattia Oblast"
+  },
+  {
+    "code": "UA-23",
+    "continent": "Europe",
+    "name": "Zaporizhzhia Oblast"
+  },
+  {
+    "code": "UA-18",
+    "continent": "Europe",
+    "name": "Zhytomyr Oblast"
+  },
+  {
     "code": "Ukrainian SSR",
     "continent": "Europe",
     "name": "Ukrainian SSR"

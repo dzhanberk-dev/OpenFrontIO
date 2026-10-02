@@ -109,6 +109,14 @@ Licensed under ODbL
 © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)  
 Licensed under ODbL
 
+### Ukraine Map
+
+Coastline and lakes/reservoirs: © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), licensed under ODbL; [Natural Earth](https://www.naturalearthdata.com/), Public Domain  
+Rivers: [HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers) v1.0 — Lehner, B., Grill G. (2013). Global river hydrography and network routing: baseline data and new approaches to study the world's large river systems. _Hydrological Processes_, 27(15): 2171–2186. [HydroSHEDS License](https://www.hydrosheds.org/terms-of-use)  
+Elevation: [Terrain Tiles](https://registry.opendata.aws/terrain-tiles/) (Mapzen / AWS Open Data; sources include SRTM, ETOPO1 and EU-DEM produced using Copernicus data and information funded by the European Union)  
+Administrative boundaries (oblasts, raions, hromadas): [Ukraine – Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ukr), State Scientific Production Enterprise "Kartographia" / OCHA, licensed under [CC BY-IGO](https://creativecommons.org/licenses/by/3.0/igo/legalcode)  
+Oblast flags: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:SVG_flags_of_oblasts_of_Ukraine), Public Domain
+
 ## Icons
 
 ### [The Noun Project](https://thenounproject.com/)
